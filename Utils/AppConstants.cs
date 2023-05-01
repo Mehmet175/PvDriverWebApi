@@ -19,7 +19,7 @@ namespace PvDriver.Utils
         <add name="DRIVERSConnectionString" connectionString="Data Source=185.122.201.11;Initial Catalog=DRIVERS;Persist Security Info=True;User ID=sa;Password=tGi3#r94"
     */
 
-
+    // Github Secret
     public class AppConstants
     {
         public static string JwtKey = "PvDriverWebAppJwtTokenKey";
